@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Earlens.Communication.Communication">
+    <Position X="3.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAABAREAkAAAIAAAAAAAAABAQAAAIGBAAA=</HashCode>
+      <FileName>Communication.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Earlens.Communication.SimulatedCommunication" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAABAREAgAAAIAAAAAAAAAAAQAAAIGAAAA=</HashCode>
+      <FileName>SimulatedCommunication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Earlens.Communication.WiredCommunication" Collapsed="true">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAABAREAgAAAIAAAAAAAAAAAQAAAIGAAAA=</HashCode>
+      <FileName>WiredCommunication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Earlens.Communication.WiredCTKCommunication" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAFAREAgAAAIAAAAAAAAAAAQAAAIGAAAA=</HashCode>
+      <FileName>WiredCTKCommunication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Earlens.Communication.WirelessCommunication" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAQAAAAAABAREAgAAAIAAAAAAAAAAAQAAAIGAAAA=</HashCode>
+      <FileName>WirelessCommunication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Earlens.Communication.BLEWrapper" Collapsed="true">
+    <Position X="6.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAARAAAAAAIAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>CommunicationWrapper\BLEWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Earlens.Communication.AdrocomWrapper" Collapsed="true">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAEAAAAAABAAEAAEIAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommunicationWrapper\Adrocom\AdrocomWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Earlens.Communication.CTKComWrapper" Collapsed="true">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABABAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommunicationWrapper\CTKComWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
